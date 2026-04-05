@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Corazón",
+    "composer": {
+      "id": "di-sarli",
+      "name": "Carlos Di Sarli"
+    },
+    "singer": "Roberto Rufino",
+    "year": 1939,
+    "spotifyEmbed": "https://open.spotify.com/embed/track/4eNq48vfT3aOhqr15n9czp?si=af9f0521790b4466",
+    "image": "images/di-sarli.jpg",
+    "translation_sources": ["https://poesiadegotan.com/2009/04/09/corazon-1939"],
+    "lyrics": {
+      "es": [
+        "Corazón, me estás mintiendo",
+        "Corazón, ¿por qué llorás?",
+        "Si me ves que estoy muriendo",
+        "De esta pena a tu compás",
+        "Si sabés que ya no es mía",
+        "Que a otros brazos se entregó",
+        "No desmayes todavía,", 
+        "Sé constante como yo",
+        "Dame tu latido",
+        "Que yo quiero arrancar",
+        "Esta flor de olvido",
+        "Que ella ha perdido sobre mi mal",
+        "Corazón",
+        "No la llames",
+        "Ni le implores",
+        "Que de tus amores",
+        "Nunca he merecido tanta humillación",
+        "Creo en Dios, y la vida con sus vueltas",
+        "Sé que de rodillas, la traerá a mis puertas",
+        "A pedir perdón"
+      ],
+      "en": [
+        "Heart, you are deceiving me...",
+        "Heart, why are you crying?",
+        "You don't see that I am dying",
+        "to your rhythm, from this pain.",
+        "If you know that she's no longer mine,",
+        "that she has surrendered to another's arms,",
+        "do not dismay yet",
+        "stay steadfast, as I am",
+        "Give me a strong beat",
+        "because I want to rip out",
+        "this flower of amnesia",
+        "that she has planted upon my sorrow",
+        "Heart,",
+        "don't call her",
+        "or implore her",
+        "because of your whims",
+        "I have never been subject to so much humiliation",
+        "I believe in God, and life with its twists",
+        "I know that He will bring her to my doorstep, on her knees",
+        "to beg for my forgiveness"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "No Está",
+    "composer": {
+      "id": "di-sarli",
+      "name": "Carlos Di Sarli"
+    },
+    "singer": "Alberto Podestá",
+    "year": 1939,
+    "spotifyEmbed": "https://open.spotify.com/embed/track/0Scm7OqAgJpr2cCMnljV7I?si=5c81db9e6d154944",
+    "image": "images/di-sarli.jpg",
+    "lyrics": {
+      "es": [
+        "Cada vez que te llamo me dicen: \"¡No está!\";",
+        "Que caso tan extraño, ¿por qué será?;",
+        "Será que tu cariño se aparta ya del mío;",
+        "¿Será que mi cariño cansándote está?;",
+        "Cada vez yo te llamo con más ansiedad;",
+        "Cada vez ese \"no\" es con más frialdad;",
+        "Yo tengo la culpa, viví en otro mundo;",
+        "Y ahora despierto a la realidad;",
+        "Yo te quiero, yo te quise y te querré;",
+        "Entre mis brazos me juraste amor eterno;",
+        "No había en el mundo nada más que mi cariño;",
+        "Nada más que mis caricias, para ti yo era tu cielo;",
+        "Ni me quieres, ni quisiste ni querrás;",
+        "Igual que todas, tus promesas fueron vanas;",
+        "Has olvidado un fiel amor, has destrozado un corazón;",
+        "Que hoy se desangra al compás de su dolor;"
+      ],
+      "en": [
+        ""
+      ]
+    }
+  }
+]

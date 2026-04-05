@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Tango Clásico</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+
+    <header class="header">
+      <div class="header-inner">
+        <div class="logo">♪</div>
+
+        <div>
+          <h1>Tango Clásico</h1>
+          <p class="subtitle">✦ Argentine Tango Music Collection ✦</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+
+      <!-- SIDEBAR -->
+      <aside class="sidebar">
+
+        <div class="filter-block">
+          <p class="label">Filter by Composer</p>
+          <select id="filter">
+            <option value="all">All Composers</option>
+            <option value="di-sarli">Carlos Di Sarli</option>
+            <option value="xxx">Xxx</option>
+          </select>
+        </div>
+
+        <div class="songs-block">
+          <div class="songs-header" id="songsToggle">
+            <span>Songs Collection</span>
+            <span class="count" id="songCount">0</span>
+          </div>
+
+          <div id="songList" class="song-list"></div>
+        </div>
+
+      </aside>
+
+      <!-- MAIN -->
+      <section class="main">
+
+        <!-- HERO -->
+        <div class="hero">
+          <div class="hero-content">
+            <div class="hero-text">
+              <h2 id="songTitle"></h2>
+              <p id="songMeta"></p>
+            </div>
+            <span class="golden-era">Golden Age</span>
+          </div>
+        </div>
+
+        <!-- SPOTIFY -->
+        <div class="player">
+        </div>
+
+        <!-- LYRICS -->
+        <div class="lyrics-container">
+          <div class="lyrics-header">Lyrics & Translation</div>
+
+          <div class="lyrics-columns">
+            <div>
+              <h4>Español</h4>
+              <div id="lyricsEs"></div>
+            </div>
+
+            <div>
+              <h4>English Translation</h4>
+              <div id="lyricsEn"></div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
