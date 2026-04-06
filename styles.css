@@ -259,11 +259,6 @@ select {
     font-size: 12px;
   }
 
-  /* PLAYER */
-  .player iframe {
-    width: 80px;
-  }
-
   /* LYRICS STACK */
   .lyrics-columns {
     flex-direction: column;
