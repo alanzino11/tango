@@ -92,5 +92,65 @@
         ""
       ]
     }
+  },
+  {
+    "id": 3,
+    "title": "Patotero Sentimental",
+    "composer": {
+      "id": "di-sarli",
+      "name": "Carlos Di Sarli"
+    },
+    "singer": "Roberto Rufino",
+    "year": 1941,
+    "spotifyEmbed": "https://open.spotify.com/embed/track/1xkZbr91eqMyXuUQeZpUvC?si=8351fa1788d34ecd",
+    "image": "images/di-sarli.jpg",
+    "lyrics": {
+      "es": [
+        "Patotero, rey del bailongo",
+        "Patotero sentimental",
+        "Escondes bajo tu risa",
+        "Muchas ganas de llorar",
+        "Ya los años se van pasando",
+        "Y en mi pecho no entra un querer",
+        "En mi vida tuve muchas, muchas minas",
+        "Pero nunca una mujer",
+        "Cuando tengo dos copas de más",
+        "De mi pecho comienza a surgir",
+        "El recuerdo de aquella fiel mujer",
+        "Que me quiso de verdad",
+        "Y yo, ingrato, abandoné",
+        "De su amor, me burlé sin mirar",
+        "Que pudiera sentirlo después",
+        "Sin pensar que los años al correr",
+        "Iban crueles a amargar a este rey del cabaret",
+        "Ya los años se van pasando",
+        "Y en mi pecho no entra un querer",
+        "En mi vida tuve muchas, muchas minas",
+        "Pero nunca una mujer"
+      ],
+      "en": [
+        "Patotero, king of the dance hall",
+        "Sentimental patotero",
+        "Beneath your laughter",
+        "You conceal a desire to cry",
+        "Now the years pass",
+        "And no love enters my breast",
+        "In my life I've had many, many girls",
+        "But never a woman",
+        "When I've had too many drinks",
+        "My heart starts to surge",
+        "With the memory of that loyal woman",
+        "Who truly loved me",
+        "And whom I, ungrateful, abandoned",
+        "I made fun of her love without a second thought",
+        "Never imagining that I would feel it later",
+        "Never considering the years to come",
+        "That would cruelly embitter this king of the cabaret",
+        "Now the years pass",
+        "And no love enters my breast",
+        "In my life I've had many, many girls",
+        "But never a woman"
+      ]
+    }
   }
 ]
